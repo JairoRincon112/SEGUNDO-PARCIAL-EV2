@@ -30,8 +30,7 @@ Estas deficiencias generan pérdidas financieras, baja satisfacción del cliente
 ---
 
 ## 3. Solución Propuesta
-Se plantea el desarrollo de una **Plataforma de Gestión de Reservas Hoteleras
-** que integre automatización de procesos, analítica de datos y herramientas de autoservicio para los clientes.  
+Se plantea el desarrollo de una **Plataforma de Gestión de Reservas Hoteleras** que integre automatización de procesos, analítica de datos y herramientas de autoservicio para los clientes.  
 
 
 ---
@@ -83,6 +82,8 @@ Si el huésped decide cancelar, el flujo se desvía hacia la **cancelación y li
 El proceso finaliza con el **check-in**, **estadía** y **check-out**, registrando automáticamente los cambios en el sistema.  
 Este diagrama detalla el flujo secuencial, decisiones y actividades críticas para garantizar una operación fluida.
 
+ ![Diagrama de Actividades](Images/ACTIVIDADES.jpeg)
+
 ---
 
 ## 6.3 Diagrama de Secuencia
@@ -97,6 +98,8 @@ El diagrama de secuencia describe la interacción temporal entre los actores y e
 6. Si ocurre una cancelación, el **Sistema OTA** y el **Sistema interno** se sincronizan para reflejar los cambios.
 
 El diagrama muestra el orden cronológico de los mensajes y la colaboración entre componentes del sistema.
+
+ ![Diagrama de Secuencia](Images/SECUENCIA.jpeg)
 
 ---
 
@@ -115,6 +118,8 @@ En el caso de comunicación rechazada, el **Huésped** realiza una solicitud, pe
 Se notifica al **Recepcionista** y al huésped, permitiendo reintentar la operación o ajustar fechas.  
 El proceso garantiza transparencia y evita sobreventas.
 
+ ![Diagrama de Comunicación](Images/COMUNICACIÓN.jpeg)
+
 ---
 
 ## 6.5 Diagrama de Paquetes
@@ -126,6 +131,8 @@ El diagrama de paquetes organiza el sistema en módulos funcionales:
 - **Capa de Datos**: almacenamiento de usuarios, habitaciones, tarifas y transacciones.
 
 Esta estructura modular permite un mantenimiento más ágil y facilita la escalabilidad del sistema hotelero.
+
+ ![Diagrama de Paquetes](Images/PAQUETES.jpeg)
 
 ---
 
@@ -142,6 +149,8 @@ El diagrama de clases muestra las entidades principales y sus relaciones:
 Cada clase contiene atributos como `id`, `nombre`, `fecha_reserva`, `estado`, y métodos para registrar, actualizar o cancelar reservas.  
 Refleja la estructura base de datos del sistema hotelero.
 
+ ![Diagrama de Clases](Images/CLASES.jpeg)
+
 ---
 
 ## 6.7 Diagrama de Objetos
@@ -154,6 +163,8 @@ El diagrama de objetos ejemplifica instancias reales del sistema:
 - **Factura F001** → total: *$350.000 COP*, método: *Tarjeta*.
 
 Muestra cómo las clases se materializan en datos reales dentro del flujo operativo, reflejando un momento concreto del sistema.
+
+ ![Diagrama de Objetos](Images/OBJETOS.jpeg)
 
 ---
 
@@ -170,6 +181,8 @@ El diagrama de estados representa el ciclo de vida de una reserva:
 
 Cada transición refleja acciones del huésped o del recepcionista, mostrando cómo la reserva avanza o se interrumpe dentro del ciclo del servicio hotelero.
 
+ ![Diagrama de Estados](Images/ESTADOS.jpeg)
+
 ---
 
 ## 6.9 Diagrama de Tiempo
@@ -184,6 +197,8 @@ El diagrama de tiempo muestra la evolución temporal de los eventos:
 
 Permite analizar la duración y secuencia de los procesos para optimizar la gestión de recursos.
 
+ ![Diagrama de Tiempo](Images/TIEMPO.jpeg)
+
 ---
 
 ## 6.10 Diagrama de Componentes
@@ -197,6 +212,8 @@ El diagrama de componentes organiza la solución en niveles:
 
 Este diseño modular facilita la integración con OTAs y sistemas contables.
 
+ ![Diagrama de Componentes](Images/COMPONENTES.jpeg)
+
 ---
 
 ## 6.11 Diagrama de Instalación
@@ -209,6 +226,8 @@ El diagrama de instalación muestra la estructura física del sistema:
 
 Refleja cómo los componentes se distribuyen e interconectan en el entorno operativo.
 
+ ![Diagrama de Instalción](Images/INSTALACIÓN.jpeg)
+
 ---
 
 ## 6.12 Diagrama de Despliegue
@@ -220,6 +239,8 @@ El diagrama de despliegue ilustra cómo se implementa el sistema en infraestruct
 - Los **Módulos de Reserva**, **Gestión de Usuarios** y **Sincronización OTA** se ejecutan de forma coordinada.
 
 Este modelo garantiza alta disponibilidad, seguridad y escalabilidad para la gestión hotelera.
+
+ ![Diagrama de Despliegue](Images/DESPLIEGUE.jpeg)
 
 ---
 
