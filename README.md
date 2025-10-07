@@ -10,9 +10,9 @@ Como Producto Mínimo Viable (MVP), la plataforma se enfoca en automatizar las r
 
 ## Documentación General del Proyecto
 
-[Ver Documento Ejecutivo](Documentacion/Documento_Ejecutivo.md)  
+[Ver Documento Ejecutivo](Documento_Ejecutivo.md)  
 [Ver Diagramas UML](Informes/assets/Diagramas/)
 
-### Asignatura: ``` Modelos de Software y Documentación ```
+### Asignatura: ``` Modelos y Documentación del Software ```
 ### Docente: ``` Ing. Hely Suarez Marin ```
 
