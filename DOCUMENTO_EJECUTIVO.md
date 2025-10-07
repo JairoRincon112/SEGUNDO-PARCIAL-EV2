@@ -67,7 +67,8 @@ Se identifican cuatro actores principales: **Huésped**, **Recepcionista**, **Ad
 
 Este diagrama permite visualizar cómo cada actor interviene dentro del flujo del sistema, mostrando las relaciones y dependencias entre sus acciones.
  
-  ![Casos de Uso](Images/DIAGRAMA DE CASOS DE USO.jpeg)
+Images/DIAGRAMA DE CASOS DE USO.jpeg
+
 ---
 
 ## 6.2 Diagrama de Actividades
