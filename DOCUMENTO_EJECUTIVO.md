@@ -66,7 +66,8 @@ Se identifican cuatro actores principales: **Huésped**, **Recepcionista**, **Ad
 - El **Sistema OTA** sincroniza inventarios, tarifas y disponibilidad con plataformas externas.
 
 Este diagrama permite visualizar cómo cada actor interviene dentro del flujo del sistema, mostrando las relaciones y dependencias entre sus acciones.
- 
+
+ ![Diagrama de Casos de Uso](Images/DIAGRAMADECASOSDEUSO.jpeg)
 
 ---
 
