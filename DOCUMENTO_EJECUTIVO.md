@@ -82,7 +82,7 @@ Si el huésped decide cancelar, el flujo se desvía hacia la **cancelación y li
 El proceso finaliza con el **check-in**, **estadía** y **check-out**, registrando automáticamente los cambios en el sistema.  
 Este diagrama detalla el flujo secuencial, decisiones y actividades críticas para garantizar una operación fluida.
 
- ![Diagrama de Actividades](Images/ACTIVIDADES.jpeg)
+ ![Diagrama de Actividades](Images/ACTIVIDAD.jpeg)
 
 ---
 
@@ -240,7 +240,7 @@ El diagrama de despliegue ilustra cómo se implementa el sistema en infraestruct
 
 Este modelo garantiza alta disponibilidad, seguridad y escalabilidad para la gestión hotelera.
 
- ![Diagrama de Despliegue](Images/DESPLIEGUE.jpeg)
+ ![Diagrama de Despliegue](Images/IMPLEMENTACIÓN.jpeg)
 
 ---
 
