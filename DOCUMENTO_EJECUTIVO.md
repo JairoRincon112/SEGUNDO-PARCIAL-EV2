@@ -67,7 +67,6 @@ Se identifican cuatro actores principales: **Huésped**, **Recepcionista**, **Ad
 
 Este diagrama permite visualizar cómo cada actor interviene dentro del flujo del sistema, mostrando las relaciones y dependencias entre sus acciones.
  
-Images/DIAGRAMA DE CASOS DE USO.jpeg
 
 ---
 
@@ -235,5 +234,5 @@ Este modelo garantiza alta disponibilidad, seguridad y escalabilidad para la ges
 
 ---
 
-## 7. Conclusiones
-El proyecto de *Gestión de Reservas de Hotel* permitirá digitalizar el proceso, reducir errores humanos, mejorar la eficiencia operativa y garantizar la seguridad de la información.  
+## 8. Conclusiones
+El proyecto de *Gestión de Reservas de Hoteleras* permitirá digitalizar el proceso, reducir errores humanos, mejorar la eficiencia operativa y garantizar la seguridad de la información.  
