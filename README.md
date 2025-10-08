@@ -1,4 +1,4 @@
-# Proyecto de Gestión de Reservas de Hoteleras
+# Proyecto de Gestión de Reservas Hoteleras
 
 ## Resumen del Proyecto
 
